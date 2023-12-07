@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Git, Python, Html 5, css3 and JS**
 
-- 📫 How to reach me: **gusta.kowai@gmail.com**
+- 📫 How to reach me: **gusta.m.greg@gmail.com**
 
 - ⚡ Fun fact **I love Science fiction and I know how to code in fortran**
 
