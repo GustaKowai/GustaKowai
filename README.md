@@ -6,6 +6,9 @@
 <img align="right" width="200" src="https://cdn.picrew.me/shareImg/org/202310/1547598_cynZxm5k.png">
 
 - 🔭 I’m currently working on **Improving my skills**
+    - PhD student in physics
+    - Systems Development Technician Student
+    - Game developer in GAMSo, currently working on a Visual Novel
 
 - 🌱 I’m currently learning **Git, Python, Html 5, css3 and JS**
 
