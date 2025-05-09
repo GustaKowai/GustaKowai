@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on **Improving my skills**
     - PhD student in physics
-    - Systems Development Technician Student
-    - Game developer in GAMSo, currently developing a Visual Novel
+    - Systems Development Technician
+    - Game developer in GAMSo, currently developing a top down zombie shooter game
 
 - 🌱 I’m currently learning **Git, Python, Html 5, css3 and JS**
 
